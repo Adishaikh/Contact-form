@@ -99,7 +99,7 @@ section .container .contactform{
     position: absolute;
     padding: 70px 50px;
     background: #fff;
-    margin-left: 150px;
+    margin: 0 0 0 150px;
     padding: 0 0 0 250px;
     width: calc(100% - 150px);
     height: 100%;
