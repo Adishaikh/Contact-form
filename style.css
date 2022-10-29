@@ -52,6 +52,15 @@ section .container .contactinfo .info{
 }
 section .container .contactinfo .info li{
     position: relative;
+    
+    margin: 20px 0;
+    
+    cursor: pointer;
+    
+    list-style: none; 
+   
+    display: flex;
+    align-items: flex-start;
     cursor: pointer;
     list-style: none;
     display: flex;
