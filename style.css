@@ -170,11 +170,11 @@ section .container .contactform .formbox .inputbox input:focus ~ span,
 section .container .contactform .formbox .inputbox input:valid ~ span,
 section .container .contactform .formbox .inputbox textarea:valid ~ span
 {
-    transform: translateY(-20px);
     font-size:12px;
     font-weight: 400;
     letter-spacing: 1px;
     color: #ff569c;
+    transform: translateY(-20px);
 }
 section .container .contactform .formbox .inputbox input[type="submit"]{
     position: relative;
