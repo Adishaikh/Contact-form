@@ -195,13 +195,16 @@ section .container .contactform .formbox .inputbox input[type="submit"]{
 section .container .contactform .formbox .inputbox input[type="submit"]:hover{
     background: #ff569c;
 }
+.new{
+    padding: 40px;
+}
 /* responisve */
 @media (max-width : 1200px)
 {
     section .container{
     width: 90%;
     min-width: auto;
-    margin: 20px;
+    margin: 0;
     box-shadow: 0 20px 50px rgba(0, 0, 0, 0.2);
 }
     section .container .contactinfo
